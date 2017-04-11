@@ -1,0 +1,149 @@
+.full_page{
+	/*border: 1px solid green;*/
+	width: 100%;
+	display: inline-block;
+
+}
+.header{
+	background-image: url(all.jpg);
+	/*border: 1px solid blue;*/
+	display: inline-block;
+	overflow: hidden;
+	width: 100%;
+
+
+}
+.header h2{
+	/*border: 1px solid red;*/
+	width: 25%;
+	color:green;
+	font-weight: bolder;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 30px;
+	margin: 5px 450px;
+	box-sizing: border-box;
+	float: left;
+
+}
+.header img{
+	/*border: 1px solid green;*/
+	width: 18%;
+	float: right;
+	margin: 0 -67px;
+}
+.menu{
+	/*border: 1px solid red;*/
+	display: inline-block;
+	width: 100%;
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px 60px;
+	margin: 0 15px;
+	background-color: blue;
+	font-weight: bolder;
+	font-style: inherit;
+	font-family: sans-serif;
+	color: white;
+}
+.midle_content{
+	width: 50%;
+	/*border: 1px solid green;*/
+}
+.midle_content h2{
+	/*border: 1px solid blue;*/
+	width: 47%;
+	background-color: red;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin: 5px 10px;
+	padding: 13px 139px;	
+
+}
+.midle_content img{
+	width: 139%;
+}
+.midle_content_2{
+	width: 50%;
+	/*border: 1px solid green;*/
+
+}
+.midle_content_2 h2{
+	/*border: 1px solid blue;*/
+	width: 2%;
+	background-color: green;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin: 7px 5px;
+	padding: 5px 212px;
+
+}
+.midle_content_2 img{
+	width: 128%;
+}
+.midle_content_3{
+	width: 50%;
+	/*border: 1px solid green;*/
+
+}
+.midle_content_3 h2{
+	/*border: 1px solid blue;*/
+	width: 57%;
+	background-color: yellow;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin: 7px 5px;
+	padding: 11px 120px;
+
+}
+.midle_content_3 img{
+	width: 123%;
+}
+.midle_finish h4{
+	font-weight: bold;
+}
+.side_content_1{
+	/*border: 1px solid blue;*/
+	width: 45%;
+	float: right;
+
+}
+.left{
+	/*border: 1px solid red;*/
+	width: 42%;
+	float: left;
+}
+.right{
+	/*border: 1px solid blue;*/
+	float: right;
+	width: 55%;
+	margin: 5px;
+	padding: 5px;
+		
+}
+.side_content_3{
+	/*border: 1px solid yellow;*/
+	width: 100%;
+
+}
+.side_content_3 h3{
+	color: gray;
+	font-weight: bolder;
+	font-family: sans-serif;
+	font-style: italic;
+	margin: 20px 210px;
+}
+.side_content_3 img{
+	width: 95%;
+	margin: 5px;
+	padding: 5px;
+}
+.footer{
+	width: 100%;
+	margin: 5px;
+	padding: 5px;
+	font-weight: bolder;
+}
+
